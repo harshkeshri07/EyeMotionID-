@@ -20,7 +20,11 @@ currently exploring :
 
 # project workflow
 1> data colllection
+
+
 2> data preprocessing 
+
+
 3> model building 
 4> training 
 5> eye movement detection
