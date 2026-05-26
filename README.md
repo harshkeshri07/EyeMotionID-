@@ -44,7 +44,7 @@ currently exploring :
 6> result analysis
 
 # current progress 
-1> GITHUB Repository acccuracy 
+1> Github Repository acccuracy 
 
 2> project  structure setup started 
 
