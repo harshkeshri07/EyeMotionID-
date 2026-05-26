@@ -14,11 +14,11 @@ the main aim of this project is to detect and study movement pattern using ai an
 3> Tensorflow
 4> Numpy
 5 > matplotlib
-##Dataset 
+# Dataset 
 currently exploring :
 1 > openeEDS dataset 
 
-## project workflow
+# project workflow
 1> data colllection
 2> data preprocessing 
 3> model building 
@@ -26,11 +26,11 @@ currently exploring :
 5> eye movement detection
 6> result analysis
 
-##current progress 
+# current progress 
 1> GITHUB Repository acccuracy 
 2> project  structure setup started 
 3> dataset research in progress 
 4 > reading research in progress 
 
-## Author 
+# Author 
 Harsh Keshri
